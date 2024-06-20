@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "QbzFyAaUrYaCZfebxGeOP2vLSNNFQEcA/g9XcraG6V/QB/OFTbfhVK0SXZQ6qaiH4yEPDmAbqPooYPzPl8p6fw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\victor.souza\\Documents\\atg\\AtgChallenge\\back\\AtgSolutions\\OrderAccumulator\\OrderAccumulator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\victor.souza\\.nuget\\packages\\quickfix.net.netcore\\1.8.1\\quickfix.net.netcore.1.8.1.nupkg.sha512",
+    "C:\\Users\\victor.souza\\.nuget\\packages\\quickfix.net.netcore.fix44\\1.8.1\\quickfix.net.netcore.fix44.1.8.1.nupkg.sha512",
+    "C:\\Users\\victor.souza\\.nuget\\packages\\quickfixn.core\\1.11.2\\quickfixn.core.1.11.2.nupkg.sha512",
+    "C:\\Users\\victor.souza\\.nuget\\packages\\quickfixn.fix4.4\\1.11.2\\quickfixn.fix4.4.1.11.2.nupkg.sha512"
+  ],
+  "logs": []
+}

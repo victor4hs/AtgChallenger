@@ -1,0 +1,6 @@
+@OrderGeneratorAPI_HostAddress = http://localhost:5047
+
+GET {{OrderGeneratorAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
